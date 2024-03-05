@@ -35,6 +35,7 @@ public class Persona {
     }
 
     public Persona() {
+        this.nombre="";
         totalPersonas++;
     }
 
